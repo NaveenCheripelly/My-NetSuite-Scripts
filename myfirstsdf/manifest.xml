@@ -1,0 +1,19 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>myfirstsdf</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+    </features>
+    <files>
+      <file>/SuiteScripts/Subsidiary Import Assistance.js</file>
+      <file>/SuiteScripts/NS_MR_SubsidiaryImport.js</file>
+    </files>
+  </dependencies>
+</manifest>

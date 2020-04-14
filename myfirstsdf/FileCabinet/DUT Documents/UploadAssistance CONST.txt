@@ -1,0 +1,16 @@
+{
+    "itemship":"itemfulfillment",
+    "purchord":"purchaseorder",
+    "custinvc":"invoice",
+    "rtnauth":"returnauthorization",
+    "itemrcpt":"itemreceipt",
+    "vendbill":"vendorbill",
+    "salesord": "salesorder",
+    "custpymt": "customerpayment",
+    "vendpymt": "vendorpayment",
+    "cashsale":"cashsale",
+    "Deposit Application":"depositapplication",
+    "journal":"journalentry",
+    "vendauth":"vendorreturnauthorization",
+    "custcred":"creditmemo"
+}
